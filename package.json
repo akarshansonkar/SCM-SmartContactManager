@@ -1,0 +1,16 @@
+{
+  "name": "scm-smartcontactmanager",
+  "version": "1.0.0",
+  "description": "This is project is all about Storing and managing Contacts on Cloud",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
